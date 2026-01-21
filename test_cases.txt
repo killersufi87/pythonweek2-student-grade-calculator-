@@ -1,0 +1,19 @@
+STUDENT GRADE CALCULATOR – TEST CASES
+
+1. Name: Priya | Marks: 85
+   Expected Output: Grade B
+
+2. Name: Rahul | Marks: 92
+   Expected Output: Grade A
+
+3. Name: Aman | Marks: 55
+   Expected Output: Grade F
+
+4. Input: 120
+   Expected Output: Invalid (Out of range)
+
+5. Input: -10
+   Expected Output: Invalid (Out of range)
+
+6. Input: abc
+   Expected Output: Invalid (Non-numeric input)
